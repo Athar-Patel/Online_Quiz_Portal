@@ -49,4 +49,36 @@ Welcome to the Online Quiz Portal repository! This project is a web-based quiz a
 - **Add Question**: The "Add Question" feature allows administrators to create and add new questions to quizzes within the portal.
 ![Screenshot (128)](https://github.com/user-attachments/assets/fc1590c2-06f2-4833-a43e-30c4bb0b6c26)
 
+# Installation
+1. Clone the Repository: git clone https://github.com/Athar-Patel/Online_Quiz_Portal.git
+2. Set Up the Database:
+      - Create a new database in MySQL.
+      - Import the **"exam.sql"** file located in the "sql_database" folder to set up the database schema.
+3. Configure Database Connection:
+     - Open the **"database.php"** file located in the "user" folder.
+     - Update the database connection settings to match your local setup.
+4. Run the Application:
+    - Place the project files in the root directory of your web server.
+    - Access the application through your browser by navigating to
+      **"http://localhost/onlineexamproject/"**
+
+# Contributing
+To contribute, please fork the repository and submit a pull request with your changes. Follow these steps:
+
+a] Click the "Fork" button on GitHub to create your copy of the repository.
+
+b] Create a new branch (git checkout -b feature/YourFeature).
+
+c] Make changes & commit your changes
+    (git add .
+    git commit -m "Add a meaningful commit message")
+
+d] Push your branch (git push origin feature/YourFeature).
+
+e] Open a pull request from your forked repository to the main repository.
+
+
+#Contact
+For any questions or feedback, reach out to me at patelathar12@gmail.com
+
 
