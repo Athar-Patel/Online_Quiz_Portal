@@ -3,7 +3,7 @@ Welcome to the Online Quiz Portal repository! This project is a web-based quiz a
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# Features
+## Features
 - **Log-In Page**: The Login Page provides a secure way for both users (Admins & students) to access their accounts and manage their quiz activities.
 ![image](https://github.com/user-attachments/assets/8700b8f2-5583-44d7-9e52-2f4176881862)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,7 +32,7 @@ Welcome to the Online Quiz Portal repository! This project is a web-based quiz a
   ![Screenshot (121)](https://github.com/user-attachments/assets/80997034-2751-4b69-aa69-0a5656df1776)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Admin Features
+### Admin Features
 - **Administrator Login**: The Admin Login feature provides a secure access point for administrators to manage quizzes, view user activity, and handle other administrative tasks. This page ensures that only authorized personnel can access the admin functionalities.
 ![image](https://github.com/user-attachments/assets/f6d487db-8a72-4738-9929-3101ef917125)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -49,7 +49,7 @@ Welcome to the Online Quiz Portal repository! This project is a web-based quiz a
 - **Add Question**: The "Add Question" feature allows administrators to create and add new questions to quizzes within the portal.
 ![Screenshot (128)](https://github.com/user-attachments/assets/fc1590c2-06f2-4833-a43e-30c4bb0b6c26)
 
-# Installation
+## Installation
 1. Clone the Repository: git clone https://github.com/Athar-Patel/Online_Quiz_Portal.git
 2. Set Up the Database:
       - Create a new database in MySQL.
@@ -62,7 +62,7 @@ Welcome to the Online Quiz Portal repository! This project is a web-based quiz a
     - Access the application through your browser by navigating to
       **"http://localhost/onlineexamproject/"**
 
-# Contributing
+## Contributing
 To contribute, please fork the repository and submit a pull request with your changes. Follow these steps:
 
 a] Click the "Fork" button on GitHub to create your copy of the repository.
@@ -78,7 +78,7 @@ d] Push your branch (git push origin feature/YourFeature).
 e] Open a pull request from your forked repository to the main repository.
 
 
-#Contact
+## Contact
 For any questions or feedback, reach out to me at patelathar12@gmail.com
 
 
