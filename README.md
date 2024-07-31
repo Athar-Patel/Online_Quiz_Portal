@@ -46,5 +46,7 @@ Welcome to the Online Quiz Portal repository! This project is a web-based quiz a
 - **Add Chapter**: The "Add Chapter" feature allows administrators to create and organize chapters within a specific subject. This functionality is particularly useful for updating the quiz content with new chapters based on recent lessons or topics covered in class.
 ![Screenshot (125)](https://github.com/user-attachments/assets/fab09b44-18fa-454d-a4e3-e1785c573d38)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- **Add Question**: The "Add Question" feature allows administrators to create and add new questions to quizzes within the portal.
+![Screenshot (128)](https://github.com/user-attachments/assets/fc1590c2-06f2-4833-a43e-30c4bb0b6c26)
 
 
